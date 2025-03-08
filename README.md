@@ -1,9 +1,9 @@
-**Patient-Hospitalization-Data-Analysis**
+# Patient Hospitalization Data Analysis
 
-**Goal**
+## Goal
 To perform an extract-transform-load (ETL) process and in-depth analysis on a patients’ hospitalization dataset from the EPIC electronic health record system and ultimately develop an interactive dashboard solution that provides insights into health conditions, associated costs (including patients’ out-of-pocket costs and health insurance company offset), and hospitalization duration.
 
-**Specific Objectives**
+## Specific Objectives
 
 + Determine the total bill and total portion covered by Anthem Insurance Company
 + Identify hospitals with the highest total patient charge over the years under review
@@ -13,14 +13,14 @@ To perform an extract-transform-load (ETL) process and in-depth analysis on a pa
 + Represent analysis results as graphs and charts on an interactive dashboard
 + Provide actionable insights and recommendations
 
-**Methodology**
+## Methodology
 
 1. First, I uploaded an Excel file containing patients’ hospital stay information and associated costs to Power BI. 
 2. Next, I employed applicable DAX function to compute additional relevant metrics for deeper insights into healthcare costs.
 3. Furthermore, I used descriptive statistical tools and functions to perform the analysis, including sum, count, and percentage.
 4. Finally, key findings were represented using charts and graphs and presented on an interactive dashboard.
 
-**Key Insights**
+## Key Insights
 
 + Overall, the patients presented with 101 health conditions which resulted in 3 million days of hospitalization from 2009 to 2012. The duration of hospital stay across patients varies widely from one day to over a month.
 
@@ -34,7 +34,7 @@ To perform an extract-transform-load (ETL) process and in-depth analysis on a pa
 
 * Finally, the most frequent health conditions across the years under review include pneumonia and kidney diseases with fluctuations over the years, except for heart disease which ranked highest in 2009 and 2010. Of note, 2010, specifically July witnessed a remarkable reduction in hospitalizations due to pneumonia, following a significant spike in the disease just in the preceding months.
 
-**Recommendations**
+## Recommendations
 
 + It would be of more financial relief if the health insurance company covered more than 75% of these conditions
 
