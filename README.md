@@ -34,6 +34,9 @@ To perform an extract-transform-load (ETL) process and in-depth analysis on a pa
 
 * Finally, the most frequent health conditions across the years under review include pneumonia and kidney diseases with fluctuations over the years, except for heart disease which ranked highest in 2009 and 2010. Of note, 2010, specifically July witnessed a remarkable reduction in hospitalizations due to pneumonia, following a significant spike in the disease just in the preceding months.
 
+<img width="1052" alt="Screenshot 2025-03-08 at 2 55 07 PM" src="https://github.com/user-attachments/assets/b352ada8-813f-452a-9ebc-e3141e840590" />
+
+
 ## Recommendations
 
 + It would be of more financial relief if the health insurance company covered more than 75% of these conditions
